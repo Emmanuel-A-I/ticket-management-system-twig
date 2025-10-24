@@ -1,12 +1,12 @@
 {
-  "name": "ticket-management-twig",
-  "description": "Ticket Management System - Twig/PHP Version",
-  "require": {
-    "twig/twig": "^3.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "App\\": "classes/"
+    "name": "emmanuel-a-i/ticket-management-system-twig",
+    "description": "Ticket Management System - Twig/PHP Version",
+    "require": {
+        "twig/twig": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes/"
+        }
     }
-  }
 }
